@@ -1,0 +1,80 @@
+body{
+
+	background-color: #f00;
+
+}
+
+li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #490101;
+    color: #fcf7f7;
+    height: 120px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+.contact-form {
+    padding-top: 100px;
+  }
+  
+  /* inputとtextareaのCSSを指定してください */
+  input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+  }
+  
+  /* contact-submitのCSSを指定してください */
+  .contact-submit {
+    background-color: #03a2f8;
+    color: #550202;
+  }
+  
+  .footer {
+    background-color: #380202;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+
+  .btn {
+    border-radius: 10px;
+    background-color: rgb(1, 0, 85);
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+  }
+
+  .pixlage {
+    width: 300px;
+    height: 200px;
+
+
+}
